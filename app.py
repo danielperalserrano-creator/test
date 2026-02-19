@@ -3,29 +3,29 @@ import streamlit as st
 # 1. EL ARCHIVADOR (Base de datos de preguntas)
 preguntas = [
     {
-        "texto": "¿Cuál es el planeta más grande del Sistema Solar?",
-        "opciones": ["Tierra", "Marte", "Júpiter", "Saturno"],
-        "correcta": "Júpiter"
+        "texto": "¿Quien gano la champions en 2023?",
+        "opciones": ["Al Nassar", "Chelsea", "Arsenal", "Real Madrid"],
+        "correcta": "Real Madrid"
     },
     {
-        "texto": "¿En qué continente se encuentra Egipto?",
-        "opciones": ["Asia", "Europa", "África", "América"],
-        "correcta": "África"
+        "texto": "¿Quien es Cr7?",
+        "opciones": ["Cristiano Ronaldo", "Ronaldo Nazario", "Leo Messi", "Vinicius Jr"],
+        "correcta": "Cristiano Ronaldo"
     },
     {
-        "texto": "¿Quién escribió 'Don Quijote de la Mancha'?",
-        "opciones": ["Federico García Lorca", "Miguel de Cervantes", "Pablo Neruda", "Antonio Machado"],
-        "correcta": "Miguel de Cervantes"
+        "texto": "¿Cuantos mundiales tiene Uruguay?",
+        "opciones": ["1", "6", "4", "2"],
+        "correcta": "4"
     },
     {
-        "texto": "¿Cuánto es 7 x 8?",
-        "opciones": ["54", "56", "64", "58"],
-        "correcta": "56"
+        "texto": "¿A que deporte juega LeBron James?",
+        "opciones": ["Futbol", "Baloncesto", "Badminton", "Ajedrez"],
+        "correcta": "Baloncesto"
     },
     {
-        "texto": "¿Cuál es el río más largo del mundo?",
-        "opciones": ["Amazonas", "Nilo", "Ebro", "Danubio"],
-        "correcta": "Nilo"
+        "texto": "¿En que equipo juega Lamine Yamal?",
+        "opciones": ["Barcelona", "Juventus", "Girona", "Lazio"],
+        "correcta": "Barcelona"
     },
     {
         "texto": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
